@@ -1,0 +1,7 @@
+print('hello world')
+print(type('hello world'))
+print('Manija + '+'Shokir = '+'Forever Love')
+print(type(True), type(False))
+print(8<9, 9>11, 10<=10, 9==9, 0!=0)
+print(5!=5 or 5 > 10)
+print(type(bool(10)))
